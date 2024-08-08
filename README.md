@@ -1,3 +1,11 @@
+# DEMO
+- Use Context
+- Use Custom Hooks
+- Use GraphQL 
+- Use Styled Components
+  
+https://github.com/user-attachments/assets/517c6d69-7d70-452a-a7fe-f2075df4caaf
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
